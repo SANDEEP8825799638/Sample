@@ -19,5 +19,8 @@ public class Main {
      public void play(){
 
     }
+     public static void run(){
+         System.out.println("new instance");
+     }
 
 }
